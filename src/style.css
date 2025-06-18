@@ -1,0 +1,79 @@
+body {
+  background-color: #757271;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #f1f1f1;
+}
+
+/* Logo Styles */
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 140px;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.content {
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 40px 30px;
+  margin: 20px 0;
+  border-radius: 10px;
+  max-width: 22rem;
+  text-align: center;
+}
+
+.content h2 {
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+  color: #043353;
+}
+
+.content p {
+  font-size: 1rem;
+  color: #ddd;
+  line-height: 1.4;
+}
+
+/* Emblema da Muralha */
+#logo {
+  width: 12rem;
+}
+
+/* Button Styles */
+button {
+  background-color: #043353;
+  border: none;
+  padding: 12px 24px;
+  margin-top: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ddd;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+button:hover {
+  background-color: #c9c3c1;
+  color: #043353;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #132d40;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.9rem;
+  color: #ddd;
+}
