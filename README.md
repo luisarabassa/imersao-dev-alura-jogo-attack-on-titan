@@ -2,7 +2,7 @@
 
 Este é um jogo interativo inspirado no universo de **Attack on Titan**, desenvolvido como parte da **Imersão Dev 9º Edição da Alura**. O jogador assume o papel de um recruta da Divisão de Reconhecimento e precisa sobreviver a três territórios perigosos para alcançar a Muralha Maria.
 
-## 🎮 Sobre este Jogo
+## 🎮 Sobre o jogo
 
 - Testa se o jogador está apto (idade mínima de 18 anos).
 - Recrutamento simbólico para a Divisão de Reconhecimento.
